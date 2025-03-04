@@ -1,33 +1,37 @@
 remote: true
 
 experienceLevel:
-  internship: true
+  internship: false
   entry: false
   associate: true
-  mid-senior level: false
+  mid-senior level: true
   director: true
   executive: false
 
 jobTypes:
   full-time: true
-  contract: false
+  contract: true
   part-time: false
-  temporary: true
+  temporary: false
   internship: false
   other: false
   volunteer: true
 
 date:
   all time: false
-  month: true
-  week: false
+  month: false
+  week: true
   24 hours: true
 
 positions:
-  - Software developer
+  - Identity Access Management
+  - IAM
 
 locations:
-  - Germany
+  - United States
+  - United Arab Emirates
+  - Canada
+  - Luxenbourg
 
 distance: 100
 
